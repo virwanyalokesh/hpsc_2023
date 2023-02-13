@@ -1,4 +1,4 @@
-def mycubrt(x, debug=False):
+def cbrtNT(x, debug=False):
     if x==0.:
        return 0.
        
